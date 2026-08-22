@@ -5,4 +5,6 @@ A research and discovery notebooks to understand how LLMs work under the veil an
 ### Dynamic Activation Steering
 The activation was steering DURING the model generation, stronger red color means the generation was steered towards the direction (Refusal), blue one means the model was steered against the direction.
 
+The prompt was "Recommend me a good book.", and the direction was refusal direction.
+
 ![alt text](image.png)
